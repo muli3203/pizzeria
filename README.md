@@ -4,7 +4,9 @@ Here is a live site link to my webpage https://github.com/muli3203/akanname.git
 
 ## DESCRIPTION
 
-Pizzeria is a website where a client can order a pizza of his/her choice. There is a ran
+Pizzeria is a website where a client can order a pizza of his/her choice. There is a range to choose from so one might be spoilt for choice. A menu was added to the website to ensure ease of scrolling and navigation.
+There is an option of ordering and delivery with the clients needs in mind.
+We are Glad to work with different clients everyday.
 
 ## Author
  Cheryl Wanja.
@@ -15,7 +17,7 @@ git clone https://github.com/muli3203/pizzeria
 
 extract the file
 
-cd into the AKAN folder/directory
+cd into the pizzeria folder/directory
 
 Open the index.html file on your favorite browser
 
@@ -28,16 +30,7 @@ Open the index.html file on your favorite browser
 
 #### BDD
 
-| Inputs |  Description |
-| :---   |          ---: |
-| Century   | The century that the user was born in, ``eg 20th century``|
-| Year     | The year of the century ``eg 98th year``|
-| Month    | The month of the year ``eg 7th month``|
-| Date     |  The day of the month ``eg 15th day``  |
-| Century   | The century that the user was born in, ``eg 21th century``|
-| Year     | The year of the century ``eg 88th year``|
-| Month    | The month of the year ``eg 9th month``|
-| Date     |  The day of the month ``eg 25th day``  |
+
 
 #### Known bugs
 
@@ -47,5 +40,7 @@ I am yet to encounter bugs.
  Contact info
 
  muli3203@gmail.com
+
+ MIT LICENSE
 
 
