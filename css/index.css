@@ -1,17 +1,32 @@
-body{
+body {
     font-family: 'Mogra', cursive;
 
 }
-#overlay{
-    background-image: url(../images/image.png);
+
+#overlay {
+    background-image: url(../images/knife.jpeg);
     background-position: fixed;
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
-    height: 700px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 900px;
+
 }
-span{
+
+span {
     font-size: xx-large;
     font-weight: bolder;
     margin-top: 20%;
+}
+
+.row1 {
+    margin-left: 38%;
+}
+
+#number {
+    width: 120px;
 }
