@@ -1,0 +1,17 @@
+body{
+    font-family: 'Mogra', cursive;
+
+}
+#overlay{
+    background-image: url(../images/image.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 700px;
+}
+span{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20%;
+}
