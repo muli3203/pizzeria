@@ -30,6 +30,9 @@ Open the index.html file on your favorite browser
 
 #### BDD
 
+A client is able to scroll the the menu to make their pick.
+A client will then place an order and get to choose whether they will pickup or we will make a delivery.
+Lastly a client is able to enter th location to be delivered to if they choose it to be delivered.
 
 
 #### Known bugs
