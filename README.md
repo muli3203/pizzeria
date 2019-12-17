@@ -1,6 +1,6 @@
 # PIZZERIA
 
-Here is a live site link to my webpage https://github.com/muli3203/akanname.git
+Here is a live site link to my webpage https://muli3203.github.io/pizzeria.git
 
 ## DESCRIPTION
 
